@@ -27,4 +27,6 @@ export function parse(input: string, options: ParseOptions = {parseNumbers: true
         input = input.replace(y[0], "")
     }
 
+    return matches
+
 }

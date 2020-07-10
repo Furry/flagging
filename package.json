@@ -1,6 +1,6 @@
 {
   "name": "flagging",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Regex-based flag library",
   "main": "dist/index.js",
   "repository": "https://github.com/furry/flagging",
