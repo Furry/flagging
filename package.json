@@ -4,7 +4,7 @@
   "description": "A Regex-based flag library",
   "main": "dist/index.js",
   "repository": "https://github.com/furry/flagging",
-  "author": "A Furry Account <ender@thefluegges.com>",
+  "author": "A Furry Account",
   "license": "MIT",
   "scripts": {
     "clean": "rmdir .\\dist /S /Q",
