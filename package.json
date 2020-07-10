@@ -1,0 +1,15 @@
+{
+  "name": "flagging",
+  "version": "1.0.0",
+  "description": "A Regex-based flag library",
+  "main": "dist/index.js",
+  "repository": "https://github.com/furry/flagging",
+  "author": "A Furry Account <ender@thefluegges.com>",
+  "license": "MIT",
+  "scripts": {
+    "clean": "rmdir .\\dist /S /Q",
+    "build": "tsc",
+    "execute": "node ./dist/index.js",
+    "go": "yarn clean && yarn build && yarn execute"
+  }
+}
